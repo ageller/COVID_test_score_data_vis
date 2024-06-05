@@ -1,1 +1,1 @@
-storing the original notebooks from our initial data exploration (data sets available upon request).
+Storing the original notebooks from our initial data exploration.  Data sets are available [here](https://nuwildcat.sharepoint.com/:f:/s/NUIT-RCS-viz/Eg-JDfX4cjFJosdHwASVgwwB652iqfoQFGq2vq392WYvIw?e=ZD0pGz).
